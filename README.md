@@ -25,4 +25,4 @@ Incluyendo, por supuesto, HTML y CSS.
 
 ## Contacto 📫
 
-¡No dudes en contactarme! Juntos podemos realizar proyectos increíbles y disfrutar del código en equipo. 😄
+¡No dudes en contactarme! Juntos podemos realizar proyectos increíbles y disfrutar del código en equipo 😄
